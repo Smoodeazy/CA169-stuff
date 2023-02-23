@@ -1,1 +1,2 @@
 ip route | grep default
+# i think the thing beside dev is your network interface but its hard to determine check the other file for that
