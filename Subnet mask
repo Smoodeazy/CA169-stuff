@@ -1,0 +1,2 @@
+ifconfig -a | grep mask 
+# use the one beside the one that looks like the IP address you found
