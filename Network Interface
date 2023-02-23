@@ -1,0 +1,2 @@
+$ ip link show
+# see https://www.cyberciti.biz/faq/linux-list-network-interfaces-names-command/ for more info
