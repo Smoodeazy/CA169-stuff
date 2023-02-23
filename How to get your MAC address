@@ -1,1 +1,2 @@
-ipconfig -a #MAC address should be a series of letters and numbers separated by colons ":" stuff like 00:1B:44:11:3A:B7
+ipconfig -a 
+#MAC address should be a series of letters and numbers separated by colons ":" stuff like 00:1B:44:11:3A:B7
